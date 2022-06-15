@@ -1,1 +1,1 @@
-[![Статус сборки](https://ci.appveyor.com/api/projects/status/wq8ev36p272u31l7?svg=true)](https://ci.appveyor.com/project/KateMila/ci-app)git
+[![Build status](https://ci.appveyor.com/api/projects/status/wq8ev36p272u31l7?svg=true)](https://ci.appveyor.com/project/KateMila/ci-app)
